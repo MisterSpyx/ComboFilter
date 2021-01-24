@@ -9,7 +9,7 @@
 
 <h2>Mass  Mass Combo Filter  </h2>
 <h2>Usage</h2>
-<h3>Smtp Format : email:pass</h3>
+<h3>combo Format : email:pass</h3>
 <h1>put ur combo in the same path of mass.py</h1>
 
 
